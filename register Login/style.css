@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #12151a;
+}
+
+.register1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+    top: 150px;
+    margin-left: 250px;
+}
+
+.register2 {
+    background-color: #1b1e24;
+    padding: 25px;
+    border-radius: 10px;
+    width: 350px;
+}
+
+.register2 input {
+    width: 90%;
+    background-color: #12151a;
+    color: #f4e969;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.register2 p {
+    color: aliceblue;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.register2 button {
+    background-color: #f4e969;
+    width: 100%;
+    padding: 10px;
+    color: #12151a;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.register2 h2 {
+    color: #f4e969;
+    display: flex;
+    justify-content: center;
+}
